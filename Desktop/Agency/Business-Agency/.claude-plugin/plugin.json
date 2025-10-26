@@ -2,7 +2,7 @@
   "name": "superpowers",
   "displayName": "Claude Code Superpowers",
   "version": "1.0.0",
-  "description": "Complete skills library for Claude Code including Playwright browser automation and iOS Simulator testing",
+  "description": "Complete skills library for Claude Code - 31 production-ready skills including development workflows, testing, automation, content creation, and specialized tools",
   "author": "ashleytower",
   "repository": "https://github.com/ashleytower/superpowers",
   "homepage": "https://github.com/ashleytower/superpowers",
@@ -12,23 +12,18 @@
     {
       "name": "playwright-browser-automation",
       "displayName": "Playwright Browser Automation",
-      "description": "Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test pages, fill forms, take screenshots, check responsive design, validate UX, test login flows, check links, automate any browser task.",
-      "version": "4.0.2",
-      "source": "skills/playwright-browser-automation/playwright-skill.zip",
+      "description": "Complete browser automation with Playwright. Auto-detects dev servers, test pages, fill forms, screenshots, responsive design, login flows, link checking",
+      "source": "claude-desktop-zips/playwright-browser-automation.zip",
       "license": "MIT",
-      "tags": ["testing", "automation", "browser", "e2e", "playwright", "web-testing"]
+      "tags": ["testing", "automation", "browser", "e2e", "playwright", "web"]
     },
     {
       "name": "ios-simulator-testing",
       "displayName": "iOS Simulator Testing",
-      "description": "Build, test, and automate iOS apps with accessibility-driven navigation. 13 production-ready scripts including ultra token-efficient Xcode build automation, log monitoring, intelligent simulator selection, and semantic UI navigation.",
-      "version": "1.0.1",
-      "source": "skills/ios-simulator-testing/ios-simulator-skill.zip",
+      "description": "Build, test, and automate iOS apps with accessibility-driven navigation. Token-efficient Xcode builds, log monitoring, WCAG compliance, visual regression",
+      "source": "claude-desktop-zips/ios-simulator-testing.zip",
       "license": "Apache-2.0",
       "tags": ["ios", "simulator", "testing", "accessibility", "xcode", "mobile"]
     }
-  ],
-  "agents": [],
-  "commands": [],
-  "hooks": []
+  ]
 }
