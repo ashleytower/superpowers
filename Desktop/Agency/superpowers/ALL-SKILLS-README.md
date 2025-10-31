@@ -123,6 +123,39 @@ All creative skills include animation templates, color palettes, and easing func
 
 Includes MCP best practices, Python/Node server templates, and evaluation frameworks.
 
+## Complementary Collection: Expert Advisors
+
+Looking for expert guidance instead of automation tools? Check out our companion repository:
+
+**[claude-skills](https://github.com/ashleytower/claude-skills)** - 36 Professional Role-Based Advisors
+
+This complementary collection provides virtual team members for expert consultation:
+
+- **Engineering Team** (16): senior-architect, senior-backend, senior-frontend, senior-security, senior-devops, senior-fullstack, senior-ml-engineer, senior-data-engineer, senior-data-scientist, senior-computer-vision, senior-prompt-engineer, senior-qa, senior-secops, code-reviewer
+
+- **C-Level Advisors** (2): CEO advisor, CTO advisor
+
+- **Product Team** (5): product-strategist, product-manager-toolkit, agile-product-owner, ux-researcher-designer, ui-design-system
+
+- **Marketing** (3): content-creator, marketing-strategy-pmm, marketing-demand-acquisition
+
+- **Regulatory/Quality** (13): FDA consultant, GDPR expert, ISO27001 manager, quality managers, audit experts, and more
+
+**The Difference:**
+- **Superpowers** (this repo): Tools for *doing* work (automation, workflows, document processing)
+- **Claude-skills**: Experts for *advising* on work (consultation, review, strategic guidance)
+
+**Example Usage:**
+```
+# Using superpowers
+/playwright-browser-automation "Test the login flow"
+
+# Using claude-skills
+/senior-architect "Review my microservices architecture for scalability"
+```
+
+The claude-skills repository is automatically synced with upstream daily, ensuring you always have access to the latest expert advisors.
+
 ## Download Options
 
 ### Individual ZIPs (45 files)
